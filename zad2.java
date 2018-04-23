@@ -1,6 +1,4 @@
-package com.company;
-
-public class Main
+public class zad2
 {
     public static void main(String[] args) throws Exception
     {
