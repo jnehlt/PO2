@@ -1,10 +1,8 @@
-package com.company;
-
 import java.io.*;
 import java.nio.file.*;
 import java.util.Random;
 
-public class Main
+public class zad4
 {
     public static void main(String[] args) throws IOException {
         String nameOfFirstFile    = "iof.txt",
