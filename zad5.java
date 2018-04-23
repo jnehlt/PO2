@@ -5,7 +5,6 @@ import java.lang.String;
 
 public class zad5
 {
-
     public static void main(String[] args) throws IOException
     {
         Vector<Double> vecA = null,
